@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">Bread loaf</title>
+  <desc id="description">A simple cream bread loaf with three scoring cuts and a warm golden crust on an olive background.</desc>
+  <rect width="1024" height="1024" fill="#657044"/>
+  <path d="M224 462C210 348 306 258 430 258H594C718 258 814 348 800 462C797 490 778 510 750 520V716C750 748 724 774 692 774H332C300 774 274 748 274 716V520C246 510 227 490 224 462Z" fill="#FFFDF6"/>
+  <path d="M274 640H750V716C750 748 724 774 692 774H332C300 774 274 748 274 716Z" fill="#D8A679"/>
+  <g fill="none" stroke="#657044" stroke-width="30" stroke-linecap="round">
+    <path d="M390 365L354 433"/>
+    <path d="M530 365L494 433"/>
+    <path d="M670 365L634 433"/>
+  </g>
+</svg>

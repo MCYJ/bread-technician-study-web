@@ -1,0 +1,11 @@
+dist/
+node_modules/
+.DS_Store
+qa/
+evidence/
+provenance/
+project-context.md
+*handoff*
+*freeze*
+source-inventory*
+*.log
