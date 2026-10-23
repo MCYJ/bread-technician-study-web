@@ -3,7 +3,7 @@ export const config={
   "repoName": "bread-technician-study-web",
   "basePath": "/bread-technician-study-web",
   "previewOrigin": "http://127.0.0.1:4319",
-  "publicSiteUrl": null,
+  "publicSiteUrl": "https://mcyj.github.io/bread-technician-study-web/",
   "publisher": "RushLabs",
   "supportEmail": "june1012june@gmail.com",
   "checkedAt": "2026-10-23",
@@ -30,12 +30,12 @@ export const copy={
     "support": "문의와 도움말",
     "status": "출시 준비 중",
     "eyebrow": "제빵기능사 · 독립 학습 앱 준비",
-    "hero": "반죽의 변화를 읽고,",
-    "accent": "발효와 굽기를 이해해요.",
-    "lede": "제빵기능사 필기의 빵류 재료·제조·위생관리를 연결해 이해하는 한국어 학습 앱을 준비합니다. 반죽과 발효, 굽기의 조건을 살펴보며 필기와 실기 준비의 차이를 구분하세요.",
+    "hero": "인터넷 없이 이어가는,",
+    "accent": "제빵 공부를 준비해요.",
+    "lede": "전 단원 학습·문제풀이·해설·오답 복습·진도 저장을 오프라인에서 이어가는 앱을 준비합니다. 문제와 해설은 한국어로 제공할 예정입니다.",
     "primary": "시험과 학습 방향 보기",
-    "pending": "아직 앱 다운로드와 구매를 제공하지 않습니다. 최종 문항과 앱 기능은 작성·검수·구현 중입니다.",
-    "languageNotice": "한국어 학습 콘텐츠를 준비합니다. 이 웹 안내는 한국어와 영어로 제공합니다.",
+    "pending": "자체 작성한 500문항·선택지별 해설 2,000개·짧은 복습 퀴즈 50개를 준비했습니다. 앱은 출시 준비 중이며 다운로드와 구매는 아직 제공하지 않습니다.",
+    "languageNotice": "문제와 해설은 한국어입니다. 이 웹 안내는 한국어와 영어로 제공합니다.",
     "visualLabel": "학습 방향 안내",
     "visualTitle": "암기에서 이유를 찾는 학습으로.",
     "flow": [
@@ -55,7 +55,7 @@ export const copy={
         "지식 복습과 실제 작업·평가 준비를 구분합니다."
       ]
     ],
-    "visualCaption": "학습 방향을 설명하는 웹 그래픽입니다. 실제 앱 화면이나 완성된 문항이 아닙니다.",
+    "visualCaption": "학습 방향을 설명하는 웹 그래픽이며 실제 앱 화면이 아닙니다.",
     "stats": [
       [
         "60문항",
@@ -72,7 +72,7 @@ export const copy={
     ],
     "sectionEyebrow": "세 영역을 연결해 이해하기",
     "sectionTitle": "반죽의 상태를 읽고,\n공정의 이유를 연결해요.",
-    "sectionLead": "필기의 통합 과목인 빵류 재료·제조 및 위생관리를 위한 자체 작성 학습을 준비합니다. 공식 기출문항이나 공개 실기과제를 복제한 자료를 제공하지 않습니다.",
+    "sectionLead": "빵류 재료·제조 및 위생관리를 다루는 독립 연습문항 500개, 선택지별 해설 2,000개와 짧은 복습 퀴즈 50개를 준비했습니다. 공식 기출이나 실기과제를 복제한 문항이 아닙니다.",
     "features": [
       [
         "재료의 기능",
@@ -90,15 +90,15 @@ export const copy={
     "paidEyebrow": "출시를 준비하고 있어요",
     "paidTitle": "공식 안내는 확인하고,\n학습은 차근차근.",
     "paidText": "유료 학습 앱을 준비하고 있습니다. 실제 가격·지원 기기·최종 기능은 정식 출시 안내에서 확인할 수 있습니다. 이 웹사이트는 구매나 결제를 받지 않습니다.",
-    "deviceTitle": "기기 중심의 학습을 계획합니다.",
-    "deviceText": "계정이나 별도 학습 서버 없이 사용하는 앱을 준비합니다. 학습 기록은 기기에 저장하고, 백업은 사용자가 공유 대상을 선택하며, 알림은 선택적으로 기기에 예약하는 방향입니다. 실제 배포 기능은 구현·검증 뒤 안내합니다.",
+    "deviceTitle": "오프라인 학습을 준비합니다.",
+    "deviceText": "설치 후 전 단원 학습·문제풀이·해설·복습·진도 저장을 기기에서 이용하는 구성으로 준비합니다. 앱 설치와 스토어 구매, 외부 링크 접속이나 사용자가 선택한 클라우드 전송에는 인터넷이 필요할 수 있습니다.",
     "readGuide": "시험 구조 살펴보기",
     "sourcesTitle": "기준은 공식 안내에서 확인하세요.",
     "sourcesText": "아래 링크는 한국산업인력공단 Q-Net의 제빵기능사 시험 정보입니다. 앱과 이 사이트는 공식 기관의 인증·보증을 받은 서비스가 아닙니다.",
     "sourceLink": "Q-Net 제빵기능사 시험 정보",
     "footer": "RushLabs의 독립 학습 서비스 준비 안내입니다. 공식 시험 운영기관과 무관합니다.",
     "guideTitle": "필기와 실기를,\n같은 시험처럼 다루지 않아요.",
-    "guideIntro": "확인한 공식 시험 구조를 바탕으로 학습 방향을 정리했습니다. 이는 현재 앱의 문항 수나 기능 완성을 뜻하지 않습니다.",
+    "guideIntro": "공식 시험 구조를 살펴보고, 독립 연습문항 500개·선택지별 해설 2,000개·짧은 복습 퀴즈 50개로 이어질 학습 방향을 확인하세요. 앱은 출시 준비 중입니다.",
     "guideSections": [
       [
         "01 · 필기 구성",
@@ -128,7 +128,7 @@ export const copy={
       "굽기·냉각·보관과 위생 지식 확인",
       "필기와 실제 작업 준비 범위 구분"
     ],
-    "scopeNote": "최종 콘텐츠는 작성·검수 중입니다. 완성된 문항 수, 전체 기능, 앱 출시 또는 공식 인증을 주장하지 않습니다.",
+    "scopeNote": "자체 작성한 500문항·선택지별 해설 2,000개·짧은 복습 퀴즈 50개를 준비했습니다. 출시 시 최종 기능과 이용 가능 기기를 안내합니다. 시행기관과 무관한 독립 학습 서비스입니다.",
     "privacyIntro": "출시 준비 중인 서비스의 예정된 처리 범위와 현재 정적 웹사이트의 처리 정보를 구분해 안내합니다.",
     "privacySections": [
       [
@@ -198,8 +198,8 @@ export const copy={
         "아직 출시 준비 중입니다. 실제 다운로드나 구매 링크를 제공하지 않습니다."
       ],
       [
-        "60문항은 앱에 완성된 문항 수인가요?",
-        "아닙니다. 공식 필기 시험의 구성을 설명한 숫자입니다. 앱 콘텐츠의 완성 수를 뜻하지 않습니다."
+        "앱 콘텐츠는 얼마나 준비됐나요?",
+        "자체 작성한 500문항·선택지별 해설 2,000개·짧은 복습 퀴즈 50개를 준비했습니다. 공식 필기 시험은 별도로 60문항·60분입니다. 앱은 출시 준비 중입니다."
       ],
       [
         "이 안내로 실기 준비가 끝나나요?",
@@ -207,7 +207,7 @@ export const copy={
       ],
       [
         "문항은 여러 언어로 제공되나요?",
-        "한국어 콘텐츠를 준비합니다. 이 웹 안내의 한국어·영어 지원이 문항 번역이나 앱의 다국어 기능 완성을 뜻하지 않습니다."
+        "문제와 해설은 한국어로 작성했습니다. 웹 안내는 한국어·영어로 제공합니다."
       ]
     ]
   },
@@ -229,12 +229,12 @@ export const copy={
     "support": "Support and contact",
     "status": "In development",
     "eyebrow": "Korean bread qualification · Independent study preparation",
-    "hero": "Read the dough.",
-    "accent": "Understand each change.",
-    "lede": "We are preparing a Korean-language study app for 제빵기능사 that connects bread ingredients, manufacturing and hygiene. Explore dough, fermentation and baking while keeping written study distinct from practical preparation.",
+    "hero": "Study offline.",
+    "accent": "Understand every step.",
+    "lede": "We are preparing offline study across all chapters, with practice, explanations, review and saved progress. Questions and explanations will be in Korean.",
     "primary": "Explore the exam and study approach",
-    "pending": "App downloads and purchases are not available. Content and app features are still being written, reviewed and implemented.",
-    "languageNotice": "Study content is planned in Korean. This website offers Korean and English guidance.",
+    "pending": "We have prepared 500 independently written questions, 2,000 choice explanations and 50 short review quizzes. The app is coming soon; downloads and purchases are not yet available.",
+    "languageNotice": "Questions and explanations are in Korean. This website offers Korean and English guidance.",
     "visualLabel": "A study approach",
     "visualTitle": "Go beyond remembering a sequence.",
     "flow": [
@@ -254,7 +254,7 @@ export const copy={
         "Separate knowledge revision from hands-on work and assessment."
       ]
     ],
-    "visualCaption": "An illustrative website graphic, not a screenshot or a completed question from the app.",
+    "visualCaption": "An illustrative study graphic, not an actual app screenshot.",
     "stats": [
       [
         "60 questions",
@@ -271,7 +271,7 @@ export const copy={
     ],
     "sectionEyebrow": "Connect the three areas",
     "sectionTitle": "Observe the dough.\nConnect conditions with outcomes.",
-    "sectionLead": "We are preparing original study content for the integrated written subject: bread ingredients, manufacturing and hygiene. We do not offer copied official exam questions or public practical tasks.",
+    "sectionLead": "Explore 500 original practice questions, 2,000 choice explanations and 50 short review quizzes on bread ingredients, manufacturing and hygiene. These independent exercises do not copy official examination questions or practical tasks.",
     "features": [
       [
         "Ingredient functions",
@@ -289,15 +289,15 @@ export const copy={
     "paidEyebrow": "A service in preparation",
     "paidTitle": "Check the official guidance.\nBuild understanding step by step.",
     "paidText": "We are preparing a paid study app. Actual pricing, supported devices and final features will be explained at release. This website does not accept purchases or payments.",
-    "deviceTitle": "Planning device-centred study.",
-    "deviceText": "We are preparing an app without a developer account or separate study server. Records stay on the device; users choose where to share a backup, and local reminders are optional. Release behaviour will be described after implementation and verification.",
+    "deviceTitle": "Preparing offline study.",
+    "deviceText": "We are preparing on-device access to all chapters, practice, explanations, review and saved progress after installation. App installation, store purchases, external links and user-selected cloud transfers may require internet access.",
     "readGuide": "Read about the exam format",
     "sourcesTitle": "Use the official information as your reference.",
     "sourcesText": "The link below opens Q-Net information from the Human Resources Development Service of Korea. Neither the app nor this website is officially certified or endorsed by the authority.",
     "sourceLink": "Q-Net information for 제빵기능사",
     "footer": "An independent study service in preparation by RushLabs, unaffiliated with the exam authority.",
     "guideTitle": "Written knowledge and\npractical skills are different.",
-    "guideIntro": "This guide summarises the verified exam structure. It does not describe a completed app question bank or fully implemented features.",
+    "guideIntro": "Explore the official exam structure and the study approach behind our 500 independent questions, 2,000 choice explanations and 50 short review quizzes. The app is coming soon.",
     "guideSections": [
       [
         "01 · Written format",
@@ -327,7 +327,7 @@ export const copy={
       "Review baking, cooling, storage and hygiene",
       "Separate written revision from hands-on preparation"
     ],
-    "scopeNote": "Final content remains in authoring and review. We do not claim a completed question count, full features, app release or official certification.",
+    "scopeNote": "We have prepared 500 original questions, 2,000 choice explanations and 50 short review quizzes. Final features and supported devices will be described at launch. This is an independent study service, unaffiliated with the examination authority.",
     "privacyIntro": "We distinguish the planned service from the current static website.",
     "privacySections": [
       [
@@ -397,8 +397,8 @@ export const copy={
         "The app is in development. No active download or purchase links are provided."
       ],
       [
-        "Does 60 questions mean the app bank is complete?",
-        "No. It describes the official written examination, not completed app content."
+        "How much study content is ready?",
+        "We have prepared 500 original questions, 2,000 choice explanations and 50 short review quizzes. The official written exam separately has 60 questions in 60 minutes. The app is coming soon."
       ],
       [
         "Does this replace practical preparation?",
@@ -406,7 +406,7 @@ export const copy={
       ],
       [
         "Are the questions multilingual?",
-        "Korean content is planned. Korean and English website guidance does not establish translated questions or completed multilingual app features."
+        "Questions and explanations are written in Korean. Website guidance is available in Korean and English."
       ]
     ]
   }

@@ -1,19 +1,13 @@
 # 제빵기능사 · Bread Technician Study
 
-RushLabs의 제빵기능사 독립 학습 앱을 소개하는 출시 준비 사이트입니다. 한국어 학습 콘텐츠를 준비하며, 웹 안내는 한국어·영어로 제공합니다. 앱 다운로드나 구매는 아직 제공하지 않습니다.
+RushLabs의 제빵기능사 독립 학습 앱을 소개하는 정적 사이트입니다. 앱은 출시 준비 중이며 다운로드·구매는 아직 제공하지 않습니다. 한국어 독립 연습문항500개·선택지별 해설2,000개·짧은 복습퀴즈50개를 준비했습니다. 문항 은행은 이 공개 저장소에 포함하지 않습니다.
 
 ## Build
 
-Node.js 24에서 의존성 설치 없이 실행합니다.
+`npm run build` 후 `npm run check`를 실행합니다. 외부 패키지를 설치하지 않습니다. `npm run preview`로 미리보기합니다.
 
-```sh
-PUBLIC_SITE_URL=https://mcyj.github.io/bread-technician-study-web npm run build
-npm run check
-npm run preview
-```
+## 공식 안내
 
-GitHub Actions가 정적 출력을 GitHub Pages에 배포합니다. 검색 색인은 아직 활성화하지 않았습니다.
+[Q-Net 제빵기능사](https://www.q-net.or.kr/crf005.do?id=crf00503s02&jmCd=7893&jmInfoDivCcd=B0)
 
-[한국어 안내](https://mcyj.github.io/bread-technician-study-web/ko/) · [English](https://mcyj.github.io/bread-technician-study-web/en/)
-
-시험 구성은 [Q-Net 제빵기능사 안내](https://www.q-net.or.kr/crf005.do?id=crf00503s02&jmCd=7893&jmInfoDivCcd=B0)를 확인하세요. 독립 서비스이며 공식 운영기관의 인증·보증을 주장하지 않습니다.
+[한국어](https://mcyj.github.io/bread-technician-study-web/ko/) · [English](https://mcyj.github.io/bread-technician-study-web/en/)
